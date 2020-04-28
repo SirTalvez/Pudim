@@ -1,0 +1,13 @@
+int 2 = pudim
+void setup()
+{
+  pinMode(pudim, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(pudim, HIGH);
+  delay(1000); // 
+  digitalWrite(pudim, LOW);
+  delay(1000); //
+}
