@@ -147,7 +147,7 @@ html {
 }
 
 .message-group .mentioned .message-text:after {
-    background: rgba(114, 137, 218, 0.25);
+    background: hsla(290,100%,13%,0.8;
     border-left: 4px solid rgba(114, 137, 218, 0);
     border-radius: 2px 0 0 2px;
     bottom: 0;
