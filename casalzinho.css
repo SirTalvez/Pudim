@@ -4,7 +4,7 @@
 * @version 2.2
 * @description Um Tema de Casal
 * @invite FdZhbjY
-* @source 
+* @source https://raw.githack.com/SirTalvez/Pudim/master/casalzinho.css
 */
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
 
@@ -119,6 +119,15 @@
 
 
 /* ADD ANY CUSTOM CODE BELOW */
-  .iconBadge-2wi9r4 {
-	background-color: #480450!important;
+  --Chat-Font-Used: 'Courier New', monospace;
+  font-style: normal;
+  font-weight: 500;
+  font-variant: normal;
+  font-stretch: semi-expanded;
+  --colourl: #480450 : ;
+  --colourl-active: #480450;
+  --background-color: #480450; 
+  --channel-text-color: #480450;
+   --themeColor1: #480450;
+   --themeColor2: #480450;
 }
